@@ -1,0 +1,7 @@
+{
+  "url": "https://github.com/bytecodealliance/tree-sitter-wit",
+  "semver": true,
+  "parser_version": "v1.3.0",
+  "location": null,
+  "lang": "wit"
+}
